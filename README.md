@@ -3,6 +3,7 @@ Teacher Grade Book App using Java and Swing for the GUI.
 The project uses multiple design patterns such as Singleton, Observer, Factory, Builder, and Visitor.
 
 Login page:
+
 <img width="390" alt="Catalogul meu electronic" src="https://github.com/vladandra22/Teacher-Grade-Book-App/assets/57152426/ab2d3f1a-6f79-492c-984c-9d0802241d9e">
 
 Student page, in which a student can see the courses he is enrolled in. When they open a course, they see information related to the course.
